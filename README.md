@@ -80,10 +80,10 @@ cd AdvancedContactManagementSystem
 
 ## 🤝 Contributing
 
--GRUOP 43
--EG/2022/5164  - LAKMIKA P.G.S
--EG/2022/5232 - PANDIGAMA Y.C
--EG/2022/5118   - KALHARA T.G.C.K
+-**GRUOP 43
+-**EG/2022/5164  - LAKMIKA P.G.S
+-**EG/2022/5232 - PANDIGAMA Y.C
+-**EG/2022/5118   - KALHARA T.G.C.K
 
 
 
