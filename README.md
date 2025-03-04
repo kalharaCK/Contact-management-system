@@ -32,23 +32,25 @@ The **Advanced Contact Management System** is a C# application that efficiently 
 ## 📂 File Structure
 ```
 📁 AdvancedContactManagementSystem
-│── 📂 src
-│   ├── Program.cs
-│   ├── ContactManager.cs
-│   ├── SortingAlgorithms.cs
-│   ├── SearchingAlgorithms.cs
-│   ├── UI.cs
-│   ├── addC.cs
-│   ├── deleteC.cs
-│   ├── modifyC.cs
-│   ├── searchByName.cs
-│   ├── searchByNumber.cs
-│   ├── searchByCity.cs
-│   ├── searchByGroup.cs
-│   ├── viewAll.cs
-│   ├── viewOp.cs
-│── 📂 data
-│   ├── contacts.txt
+│── 📂 bin
+│── 📂 obj
+│── addC.cs
+│── class.cs
+│── ContactManager.csproj
+│── ContactManager.sln
+│── deleteC.cs
+│── firstscreen.cs
+│── modifyC.cs
+│── program.cs (Calls the first screen - Home screen at the beginning)
+│── searchByCity.cs
+│── searchByGroup.cs
+│── searchByName.cs
+│── searchByNumber.cs
+│── SearchC.cs
+│── searchOp.cs
+│── UI.cs
+│── viewAll.cs
+│── viewOp.cs
 │── README.md
 ```
 
@@ -74,12 +76,14 @@ cd AdvancedContactManagementSystem
 - **Execution Time Measurement:** Track and compare the performance of different sorting/searching algorithms.
 - **Algorithm Selection:** Choose the best algorithm based on dataset size and performance needs.
 
+
+
 ## 🤝 Contributing
--3rd semester DSA project
-GRUOP 43
-EG/2022/5164  - LAKMIKA P.G.S
-EG/2022/5232 - PANDIGAMA Y.C
-EG/2022/5118   - KALHARA T.G.C.K
+
+-GRUOP 43
+-EG/2022/5164  - LAKMIKA P.G.S
+-EG/2022/5232 - PANDIGAMA Y.C
+-EG/2022/5118   - KALHARA T.G.C.K
 
 
 
